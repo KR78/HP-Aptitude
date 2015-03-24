@@ -1,0 +1,188 @@
+facility_code,facility_name,owner,district,county,drug_name,stocking level(units)
+12864,Abandoned Child Care,Non-Governmental Organizations,Dagoretti,Nairobi,Artesunate inj 60mg ,615
+12893,Chandaria Health Centre,Community,Dagoretti,Nairobi,Artesunate inj 60mg ,0
+12909,Dagoretti Approved Dispensary,Ministry of Health,Dagoretti,Nairobi,Artesunate inj 60mg ,104
+13036,Kivuli Dispensary,Kenya Episcopal Conference-Catholic Secretariat,Dagoretti,Nairobi,Artesunate inj 60mg ,0
+13123,Ngong Road Health Centre,Local Authority,Dagoretti,Nairobi,Artesunate inj 60mg ,50
+13129,Nyina Wa Mumbi Dispensary,Other Faith Based,Dagoretti,Nairobi,Artesunate inj 60mg ,0
+13135,Orthodox Dispensary,Christian Health Association of Kenya,Dagoretti,Nairobi,Artesunate inj 60mg ,30
+13165,Riruta Health Centre,Local Authority,Dagoretti,Nairobi,Artesunate inj 60mg ,0
+13249,Waithaka Health Centre,Local Authority,Dagoretti,Nairobi,Artesunate inj 60mg ,173
+12871,Aptc Health Centre,Armed Forces,Embakasi,Nairobi,Artesunate inj 60mg ,34
+12935,Embakasi Health Centre,Local Authority,Embakasi,Nairobi,Artesunate inj 60mg ,0
+12962,Gsu Training School,Ministry of Health,Embakasi,Nairobi,Artesunate inj 60mg ,15
+12991,Jkia Health Centre,Ministry of Health,Embakasi,Nairobi,Artesunate inj 60mg ,0
+13015,Kayole I Health Centre,Local Authority,Embakasi,Nairobi,Artesunate inj 60mg ,155
+13016,Kayole II Sub-District Hospital,Local Authority,Embakasi,Nairobi,Artesunate inj 60mg ,4
+18463,Mukuru Health Centre,Local Authority,Embakasi,Nairobi,Artesunate inj 60mg ,10
+13101,Mukuru Mmm Clinic,Kenya Episcopal Conference-Catholic Secretariat,Embakasi,Nairobi,Artesunate inj 60mg ,0
+13173,Reuben Mukuru Health Centre,Kenya Episcopal Conference-Catholic Secretariat,Embakasi,Nairobi,Artesunate inj 60mg ,75
+13017,Soweto Kayole PHC Health Centre,Non-Governmental Organizations,Embakasi,Nairobi,Artesunate inj 60mg ,20
+13240,Umoja Health Centre,Local Authority,Embakasi,Nairobi,Artesunate inj 60mg ,0
+12879,Bahati Health Centre,Local Authority,Kamukunji,Nairobi,Artesunate inj 60mg ,140
+12884,Biafra Medical Clinic,Private Enterprise (Institution),Kamukunji,Nairobi,Artesunate inj 60mg ,35
+12930,Eastleigh Health Centre,Local Authority,Kamukunji,Nairobi,Artesunate inj 60mg ,0
+13155,Pumwani Majengo Dispensary,Local Authority,Kamukunji,Nairobi,Artesunate inj 60mg ,80
+13225,St Teresa's Parish Dispensary,Other Faith Based,Kamukunji,Nairobi,Artesunate inj 60mg ,0
+12876,Babadogo Health Centre,Local Authority,Kasarani,Nairobi,Artesunate inj 60mg ,385
+12997,Kahawa West Health Centre,Local Authority,Kasarani,Nairobi,Artesunate inj 60mg ,0
+13000,Kamiti Prison Hospital,Ministry of Health,Kasarani,Nairobi,Artesunate inj 60mg ,30
+13006,Kariobangi Health Centre,Local Authority,Kasarani,Nairobi,Artesunate inj 60mg ,240
+13010,Kasarani Health Centre,Local Authority,Kasarani,Nairobi,Artesunate inj 60mg ,15
+13071,Marurui Dispensary,Private Enterprise (Institution),Kasarani,Nairobi,Artesunate inj 60mg ,0
+13077,Mathare North Health Centre,Local Authority,Kasarani,Nairobi,Artesunate inj 60mg ,0
+13130,National Youth Service Hq Dispensary (Ruaraka),State Coorporation,Kasarani,Nairobi,Artesunate inj 60mg ,0
+12961,Gsu Dispensary (Nairobi West),Ministry of Health,Langata,Nairobi,Artesunate inj 60mg ,0
+13003,Karen Health Centre,Local Authority,Langata,Nairobi,Artesunate inj 60mg ,24
+13029,Kibera D O Dispensary,Ministry of Health,Langata,Nairobi,Artesunate inj 60mg ,0
+13041,Langata Health Centre,Local Authority,Langata,Nairobi,Artesunate inj 60mg ,40
+13044,Langata Women Prison Dispensary,Ministry of Health,Langata,Nairobi,Artesunate inj 60mg ,0
+13116,Nairobi West Men's Prison Dispensary,Ministry of Health,Langata,Nairobi,Artesunate inj 60mg ,10
+13239,Uhuru Camp Dispensary (O P Admin Police),Armed Forces,Langata,Nairobi,Artesunate inj 60mg ,0
+12868,Aga Khan University Hospital (Buruburu),Private Enterprise (Institution),Makadara,Nairobi,Artesunate inj 60mg ,250
+12988,Jericho Health Centre,Local Authority,Makadara,Nairobi,Artesunate inj 60mg ,18
+12998,Kaloleni Dispensary,Local Authority,Makadara,Nairobi,Artesunate inj 60mg ,0
+13051,Loco Dispensary,Other Public Institution,Makadara,Nairobi,Artesunate inj 60mg ,20
+13053,Lunga Lunga Health Centre,Local Authority,Makadara,Nairobi,Artesunate inj 60mg ,16
+13056,Makadara Health Centre,Local Authority,Makadara,Nairobi,Artesunate inj 60mg ,250
+13097,Mow Dispensary,Other Public Institution,Makadara,Nairobi,Artesunate inj 60mg ,170
+13161,Nairobi Remand Prison Health Centre,Other Public Institution,Makadara,Nairobi,Artesunate inj 60mg ,400
+13168,Railway Training Institute Dispensary South B,Academic (if registered),Makadara,Nairobi,Artesunate inj 60mg ,0
+13144,South B Police Band Dispensary,Other Public Institution,Makadara,Nairobi,Artesunate inj 60mg ,25
+12913,Dandora I Health Centre,Local Authority,Njiru,Nairobi,Artesunate inj 60mg ,0
+12912,Dandora II Health Centre,Local Authority,Njiru,Nairobi,Artesunate inj 60mg ,154
+17434,Kariobangi South Clinic,Local Authority,Njiru,Nairobi,Artesunate inj 60mg ,0
+13126,Njiru Dispensary,Local Authority,Njiru,Nairobi,Artesunate inj 60mg ,5
+13171,Ruai Health Centre,Local Authority,Njiru,Nairobi,Artesunate inj 60mg ,22
+12974,Huruma Lions Dispensary,Local Authority,Starehe,Nairobi,Artesunate inj 60mg ,50
+13039,Lagos Road Dispensary,Local Authority,Starehe,Nairobi,Artesunate inj 60mg ,1
+13078,Mathare Police Depot,Ministry of Health,Starehe,Nairobi,Artesunate inj 60mg ,20
+13121,Ngaira Rhodes Dispensary,Local Authority,Starehe,Nairobi,Artesunate inj 60mg ,0
+13122,Ngara Health Centre (City Council of Nairobi),Local Authority,Starehe,Nairobi,Artesunate inj 60mg ,135
+13193,Special Treatment Clinic,Local Authority,Starehe,Nairobi,Artesunate inj 60mg ,0
+13243,Upendo Dispensary,Ministry of Health,Starehe,Nairobi,Artesunate inj 60mg ,0
+12993,Kabete Approved School Dispensary,Ministry of Health,Westlands,Nairobi,Artesunate inj 60mg ,4
+13001,Kangemi Health Centre,Local Authority,Westlands,Nairobi,Artesunate inj 60mg ,45
+13005,Kari Health Clinic,Ministry of Health,Westlands,Nairobi,Artesunate inj 60mg ,0
+13009,Karura Health Centre (Kiambu Rd),Local Authority,Westlands,Nairobi,Artesunate inj 60mg ,34
+13052,Lower Kabete Dispensary (Kabete),Local Authority,Westlands,Nairobi,Artesunate inj 60mg ,0
+13093,Mji Wa Huruma Dispensary,Local Authority,Westlands,Nairobi,Artesunate inj 60mg ,0
+17876,St Angela Merici Health Centre (Kingeero),Kenya Episcopal Conference-Catholic Secretariat,Westlands,Nairobi,Artesunate inj 60mg ,2
+13209,St Joseph W Dispensary (Westlands),Kenya Episcopal Conference-Catholic Secretariat,Westlands,Nairobi,Artesunate inj 60mg ,20
+13231,State House Clinic,Local Authority,Westlands,Nairobi,Artesunate inj 60mg ,0
+13232,State House Dispensary (Nairobi),Ministry of Health,Westlands,Nairobi,Artesunate inj 60mg ,56
+13258,Westlands Health Centre,Local Authority,Westlands,Nairobi,Artesunate inj 60mg ,0
+11282,Chasimba Health Centre,Ministry of Health,Bahari,Kilifi,Artesunate inj 60mg ,105
+11580,Matsangoni Model Health Centre,Ministry of Health,Bahari,Kilifi,Artesunate inj 60mg ,0
+11636,Mnarani Dispensary,Ministry of Health,Bahari,Kilifi,Artesunate inj 60mg ,56
+11672,Mtwapa Health Centre,Ministry of Health,Bahari,Kilifi,Artesunate inj 60mg ,0
+11738,Pingilikani Dispensary,Ministry of Health,Bahari,Kilifi,Artesunate inj 60mg ,240
+11836,Takaungu Dispensary,Ministry of Health,Bahari,Kilifi,Artesunate inj 60mg ,0
+11881,Vipingo Rural Demonstration Health Centre,Ministry of Health,Bahari,Kilifi,Artesunate inj 60mg ,15
+11237,Bamba Sub-District Hospital,Ministry of Health,Ganze,Kilifi,Artesunate inj 60mg ,30
+11305,Dida Dispensary,Ministry of Health,Ganze,Kilifi,Artesunate inj 60mg ,35
+11383,Ganze Health Centre,Ministry of Health,Ganze,Kilifi,Artesunate inj 60mg ,120
+11883,Vitengeni Health Centre,Ministry of Health,Ganze,Kilifi,Artesunate inj 60mg ,2
+11404,Gotani Dispensary,Ministry of Health,Kaloleni,Kilifi,Artesunate inj 60mg ,8
+11859,Tsangatsini Dispensary,Ministry of Health,Kaloleni,Kilifi,Artesunate inj 60mg ,11
+16190,Vishakani Dispensary,Ministry of Health,Kaloleni,Kilifi,Artesunate inj 60mg ,0
+11401,Gongoni Health Centre,Ministry of Health,Magarini,Kilifi,Artesunate inj 60mg ,0
+11562,Marafa Health Centre,Ministry of Health,Magarini,Kilifi,Artesunate inj 60mg ,125
+11563,Marereni Dispensary,Ministry of Health,Magarini,Kilifi,Artesunate inj 60mg ,0
+11571,Marikebuni Dispensary,Ministry of Health,Magarini,Kilifi,Artesunate inj 60mg ,0
+11715,Ngomeni Dispensary (Malindi),Ministry of Health,Magarini,Kilifi,Artesunate inj 60mg ,15
+11387,Gede Health Centre,Ministry of Health,Malindi,Kilifi,Artesunate inj 60mg ,20
+11394,GK Prison Dispensary (Malindi),Ministry of Health,Malindi,Kilifi,Artesunate inj 60mg ,200
+11453,Kakuyuni Dispensary (Malindi),Ministry of Health,Malindi,Kilifi,Artesunate inj 60mg ,0
+11555,Malindi District Hospital,Ministry of Health,Malindi,Kilifi,Artesunate inj 60mg ,0
+11677,Muyeye Health Centre,Ministry of Health,Malindi,Kilifi,Artesunate inj 60mg ,76
+11761,Sabaki Dispensary,Ministry of Health,Malindi,Kilifi,Artesunate inj 60mg ,0
+17017,Kokotoni Dispensary,Ministry of Health,Rabai,Kilifi,Artesunate inj 60mg ,78
+11748,Rabai Rural Health Demonstration Centre,Ministry of Health,Rabai,Kilifi,Artesunate inj 60mg ,12
+11756,Ribe Dispensary,Ministry of Health,Rabai,Kilifi,Artesunate inj 60mg ,0
+11448,Kafuduni Dispensary,Ministry of Health,Kinango,Kwale,Artesunate inj 60mg ,765
+11464,Kibandaongo Dispensary,Ministry of Health,Kinango,Kwale,Artesunate inj 60mg ,7
+11585,Mazeras Dispensary,Ministry of Health,Kinango,Kwale,Artesunate inj 60mg ,0
+11638,Mnyenzeni Dispensary,Ministry of Health,Kinango,Kwale,Artesunate inj 60mg ,0
+11687,Mwanda Dispensary,Ministry of Health,Kinango,Kwale,Artesunate inj 60mg ,49
+11768,Samburu Health Centre,Ministry of Health,Kinango,Kwale,Artesunate inj 60mg ,25
+11838,Taru Dispensary,Ministry of Health,Kinango,Kwale,Artesunate inj 60mg ,0
+11880,Vigurungani Dispensary,Ministry of Health,Kinango,Kwale,Artesunate inj 60mg ,98
+11466,Kibuyuni Dispensary,Ministry of Health,Matuga,Kwale,Artesunate inj 60mg ,40
+17469,Kiteje Dispensary,Ministry of Health,Matuga,Kwale,Artesunate inj 60mg ,100
+11495,Kizibe Dispensary,Ministry of Health,Matuga,Kwale,Artesunate inj 60mg ,0
+11537,Magodzoni Dispensary,Ministry of Health,Matuga,Kwale,Artesunate inj 60mg ,34
+11629,Mkongani Dispensary,Ministry of Health,Matuga,Kwale,Artesunate inj 60mg ,77
+11684,Mwaluphamba Dispensary,Ministry of Health,Matuga,Kwale,Artesunate inj 60mg ,0
+11714,Ng'ombeni Dispensary,Ministry of Health,Matuga,Kwale,Artesunate inj 60mg ,0
+11787,Shimba Hills Health Centre,Ministry of Health,Matuga,Kwale,Artesunate inj 60mg ,93
+11853,Tiwi Rhtc,Ministry of Health,Matuga,Kwale,Artesunate inj 60mg ,5
+11888,Waa Health Centre,Ministry of Health,Matuga,Kwale,Artesunate inj 60mg ,0
+11304,Diani Health Centre,Ministry of Health,Msambweni,Kwale,Artesunate inj 60mg ,8
+11368,Eshu Dispensary,Ministry of Health,Msambweni,Kwale,Artesunate inj 60mg ,6
+16546,Gombato Dispensary (CDF),Ministry of Health,Msambweni,Kwale,Artesunate inj 60mg ,120
+11472,Kikoneni Health Centre,Ministry of Health,Lunga Lunga,Kwale,Artesunate inj 60mg ,2
+11526,Lungalunga Dispensary,Ministry of Health,Lunga Lunga,Kwale,Artesunate inj 60mg ,8
+11789,Shimoni Dispensary,Ministry of Health,Msambweni,Kwale,Artesunate inj 60mg ,11
+11879,Vanga Health Centre,Ministry of Health,Lunga Lunga,Kwale,Artesunate inj 60mg ,0
+11884,Vitsangalaweni Dispensary,Ministry of Health,Lunga Lunga,Kwale,Artesunate inj 60mg ,0
+11254,Bokole CDF Dispensary,Ministry of Health,Changamwe,Mombasa,Artesunate inj 60mg ,125
+11436,Jomvu Model Health Centre,Ministry of Health,Changamwe,Mombasa,Artesunate inj 60mg ,43
+11620,Miritini CDF Dispensary,Ministry of Health,Changamwe,Mombasa,Artesunate inj 60mg ,0
+11640,Moi Airport Dispensary,Ministry of Health,Changamwe,Mombasa,Artesunate inj 60mg ,2
+11740,Port Reitz District Hospital,Ministry of Health,Changamwe,Mombasa,Artesunate inj 60mg ,0
+11239,Bamburi Dispensary,Local Authority,Kisauni,Mombasa,Artesunate inj 60mg ,56
+11499,Kongowea Health Centre,Local Authority,Kisauni,Mombasa,Artesunate inj 60mg ,90
+18431,Marimani CDF Dispensary,Ministry of Health,Kisauni,Mombasa,Artesunate inj 60mg ,87
+18210,Mlaleo Health Centre (MOH),Ministry of Health,Kisauni,Mombasa,Artesunate inj 60mg ,56
+11397,Shimo Borstal Dispensary (GK Prison),Ministry of Health,Kisauni,Mombasa,Artesunate inj 60mg ,54
+11393,Shimo La Tewa Annex Dispensary (GK Prison),Ministry of Health,Kisauni,Mombasa,Artesunate inj 60mg ,41
+11395,Shimo-La Tewa Health Centre (GK Prison),Ministry of Health,Kisauni,Mombasa,Artesunate inj 60mg ,12
+11522,Likoni District Hospital,Ministry of Health,Likoni,Mombasa,Artesunate inj 60mg ,17
+11592,Mbuta Model Health Centre,Ministry of Health,Likoni,Mombasa,Artesunate inj 60mg ,90
+11669,Mtongwe (MCM) Dispensary,Local Authority,Likoni,Mombasa,Artesunate inj 60mg ,32
+11723,Nys Dispensary (Kilindini),Ministry of Health,Likoni,Mombasa,Artesunate inj 60mg ,30
+11303,King'orani Prison Dispensary,Ministry of Health,Mvita,Mombasa,Artesunate inj 60mg ,90
+18211,Railway Dispensary,Ministry of Health,Mvita,Mombasa,Artesunate inj 60mg ,11
+11831,State House Dispensary (Mombasa),Ministry of Health,Mvita,Mombasa,Artesunate inj 60mg ,13
+11854,Tononoka Administration Police Dispensary & VCT,Other Public Institution,Mvita,Mombasa,Artesunate inj 60mg ,0
+11861,Tudor District Hospital (Mombasa),Ministry of Health,Mvita,Mombasa,Artesunate inj 60mg ,0
+18312,Bura Health Centre Taita,Ministry of Health,Mwatate,Taita Taveta,Artesunate inj 60mg ,10
+11457,David Kayanda Dispensary,Ministry of Health,Voi,Taita Taveta,Artesunate inj 60mg ,87
+11300,Dawson Mwanyumba Dispensary,Ministry of Health,Mwatate,Taita Taveta,Artesunate inj 60mg ,1200
+11463,Kiangachinyi Dispensary,Ministry of Health,Wundanyi,Taita Taveta,Artesunate inj 60mg ,2450
+11508,Kwa-Mnegwa Dispensary,Ministry of Health,Mwatate,Taita Taveta,Artesunate inj 60mg ,100
+11549,Maktau Health Centre,Ministry of Health,Mwatate,Taita Taveta,Artesunate inj 60mg ,200
+17672,Mbaga Dispensary,Ministry of Health,Mwatate,Taita Taveta,Artesunate inj 60mg ,1600
+17126,Modambogho Dispensary,Ministry of Health,Mwatate,Taita Taveta,Artesunate inj 60mg ,0
+11650,Mpinzinyi Health Centre,Ministry of Health,Mwatate,Taita Taveta,Artesunate inj 60mg ,190
+11652,Mrughua Dispensary,Ministry of Health,Wundanyi,Taita Taveta,Artesunate inj 60mg ,0
+11656,Msau Dispensary,Ministry of Health,Mwatate,Taita Taveta,Artesunate inj 60mg ,0
+11686,Mwambirwa Dispensary,Ministry of Health,Mwatate,Taita Taveta,Artesunate inj 60mg ,0
+16554,Mwashuma Dispensary (CDF),Community Development Fund,Mwatate,Taita Taveta,Artesunate inj 60mg ,1600
+11695,Mwatate Sub-District Hospital,Ministry of Health,Mwatate,Taita Taveta,Artesunate inj 60mg ,9200
+11763,Sagaighu Dispensary,Ministry of Health,Wundanyi,Taita Taveta,Artesunate inj 60mg ,1600
+11278,Challa Dispensary,Ministry of Health,Taveta,Taita Taveta,Artesunate inj 60mg ,0
+11477,Kimorigho Dispensary,Ministry of Health,Taveta,Taita Taveta,Artesunate inj 60mg ,300
+16203,Kiwalwa Dispensary,Ministry of Health,Taveta,Taita Taveta,Artesunate inj 60mg ,0
+18187,Mahandakini Dispensary,Ministry of Health,Taveta,Taita Taveta,Artesunate inj 60mg ,0
+11702,Ndilidau Dispensary (Jipe),Ministry of Health,Taveta,Taita Taveta,Artesunate inj 60mg ,0
+11718,Njukini Health Centre,Ministry of Health,Taveta,Taita Taveta,Artesunate inj 60mg ,500
+17114,Rekeke Model Health Centre,Ministry of Health,Taveta,Taita Taveta,Artesunate inj 60mg ,100
+11840,Taveta District Hospital,Ministry of Health,Taveta,Taita Taveta,Artesunate inj 60mg ,0
+11262,Bughuta Health Centre,Ministry of Health,Voi,Taita Taveta,Artesunate inj 60mg ,200
+11451,Kajire Dispensary,Ministry of Health,Voi,Taita Taveta,Artesunate inj 60mg ,0
+11455,Kasigau Rdch,Ministry of Health,Voi,Taita Taveta,Artesunate inj 60mg ,100
+11561,Manyani Dispensary,Ministry of Health,Voi,Taita Taveta,Artesunate inj 60mg ,1500
+11641,Moi District Hospital Voi,Ministry of Health,Voi,Taita Taveta,Artesunate inj 60mg ,3800
+11764,Sagala Health Centre,Ministry of Health,Voi,Taita Taveta,Artesunate inj 60mg ,7400
+11589,Mbale Health Centre,Ministry of Health,Wundanyi,Taita Taveta,Artesunate inj 60mg ,1500
+11602,Mgange Dawida Dispensary,Ministry of Health,Wundanyi,Taita Taveta,Artesunate inj 60mg ,3210
+11603,Mgange Nyika Health Centre,Ministry of Health,Wundanyi,Taita Taveta,Artesunate inj 60mg ,0
+11688,Mwanda Health Centre (Taita Taveta),Ministry of Health,Wundanyi,Taita Taveta,Artesunate inj 60mg ,100
+11705,Ndovu Health Centre,Ministry of Health,Voi,Taita Taveta,Artesunate inj 60mg ,0
+11720,Nyache Health Centre,Ministry of Health,Wundanyi,Taita Taveta,Artesunate inj 60mg ,0
+11904,Werugha Health Centre,Ministry of Health,Wundanyi,Taita Taveta,Artesunate inj 60mg ,0
+18895,Korogocho Health Centre,Ministry of Health,Kasarani,Nairobi,Artesunate inj 60mg ,0
+19735,Wundanyi GK Prisons,Other Public Institution,Wundanyi,Taita Taveta,Artesunate inj 60mg ,0
+18858,Maungu Model Health Centre,Ministry of Health,Voi,Taita Taveta,Artesunate inj 60mg ,100
