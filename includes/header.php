@@ -51,7 +51,8 @@ height: 4em;
       
       <!-- Bootstrap Theme Options From Bootswatch -->
         <ul class="nav navbar-nav navbar-right">
-           <li class="dropdown">
+            <li><a href="https://github.com/KR78/HP-Aptitude">Github</a></li>
+            <li class="dropdown">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Download <b class="caret"></b></a>
             <ul class="dropdown-menu">
               <li><a href="data/Aptitude.pdf" download="aptitude.pdf">PDF</a></li>
