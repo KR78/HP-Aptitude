@@ -8,5 +8,5 @@ Change Username and Password to connect to you database, in the files aptitude_c
 
 # Tools Used
 Bootstrap Framework, 
-Canvajs JavaScript Library,
-PHP,
+CanvasJS JavaScript Library,
+PHP.
